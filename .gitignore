@@ -1,0 +1,28 @@
+# Raw EEG/EOG data
+*.mat
+*.edf
+*.gdf
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.key
+*.pem
+credentials*
+secrets*
+
+# Local project folders
+.local/
