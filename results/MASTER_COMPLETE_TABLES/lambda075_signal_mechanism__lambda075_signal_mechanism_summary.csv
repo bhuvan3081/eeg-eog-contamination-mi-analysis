@@ -1,0 +1,11 @@
+Metric,Value
+Mean_Delta_Accuracy,-0.0032875006072293
+Mean_Delta_F1,0.003262038391181
+Subjects_Improved_Accuracy,2.0
+Subjects_Improved_F1,3.0
+Subjects_Reduced_EOG_Coupling,9.0
+Subjects_Reduced_RMS,9.0
+Subjects_Reduced_Variance,9.0
+Mean_EOG_Coupling_Change_Percent,-63.00344799962082
+Mean_RMS_Change_Percent,-18.189064572933727
+Mean_Variance_Change_Percent,-32.075236287313565

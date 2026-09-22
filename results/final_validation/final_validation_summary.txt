@@ -1,0 +1,29 @@
+FINAL STATISTICAL VALIDATION
+================================================================================
+
+Fixed lambda = 0.75
+Number of subjects = 9
+
+ACCURACY
+Raw mean = 0.51484527
+Clean mean = 0.51155777
+Mean delta = -0.00328750
+95% bootstrap CI = [-0.02017184, 0.01703038]
+Paired t p = 0.75304524
+Wilcoxon p = 0.57812500
+Exact permutation p = 0.71875000
+Cohen dz = -0.10854921
+
+MACRO F1
+Raw mean = 0.50080536
+Clean mean = 0.50406740
+Mean delta = 0.00326204
+95% bootstrap CI = [-0.01720919, 0.02745418]
+Paired t p = 0.79549819
+Wilcoxon p = 0.82031250
+Exact permutation p = 0.80078125
+Cohen dz = 0.08932511
+
+LEAVE-ONE-SUBJECT-OUT
+Accuracy positive in 1/9 exclusions
+F1 positive in 7/9 exclusions

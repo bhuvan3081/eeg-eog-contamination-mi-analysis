@@ -1,0 +1,7 @@
+Actual_Best,Raw,All_Clean,Theta_Clean,Alpha_Mu_Clean,Beta_Clean,Gamma_Clean
+Raw,0,0,0,1,0,0
+All_Clean,0,2,0,0,1,0
+Theta_Clean,0,0,0,0,0,0
+Alpha_Mu_Clean,2,0,0,1,0,0
+Beta_Clean,0,1,0,0,0,0
+Gamma_Clean,0,1,0,0,0,0

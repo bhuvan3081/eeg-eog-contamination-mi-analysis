@@ -1,0 +1,15 @@
+Metric,Value
+Mean_Raw_Expected_Hand_Lateralization,0.029632834563034054
+Mean_Clean_Expected_Hand_Lateralization,0.05059547003330887
+Mean_Change_Expected_Hand_Lateralization,0.020962635470274823
+Subjects_Improved,8.0
+Wilcoxon_W,8.0
+Wilcoxon_p,0.09765625
+Accuracy_Pearson_r,-0.2061291530820301
+Accuracy_Pearson_p,0.59466279204963
+Accuracy_Spearman_rho,-0.3096261412396175
+Accuracy_Spearman_p,0.4174779170120546
+F1_Pearson_r,-0.28150706159556876
+F1_Pearson_p,0.46305269211859296
+F1_Spearman_rho,-0.5333333333333333
+F1_Spearman_p,0.13922686754397814

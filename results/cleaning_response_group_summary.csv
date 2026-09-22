@@ -1,0 +1,3 @@
+Response_Group,Subjects,Mean_Accuracy_Response,Mean_F1_Response,Mean_Optimal_Lambda
+Harmed,5,-0.014812249772959918,-0.02125146451977856,0.05
+Responder,4,0.043947032343776664,0.05349458536085251,0.6875

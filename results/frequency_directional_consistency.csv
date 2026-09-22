@@ -1,0 +1,5 @@
+Band,Cleaning_Condition,N,EOG_Increased,Accuracy_Improved,Both_EOG_Increased_Accuracy_Improved,F1_Improved,Both_EOG_Increased_F1_Improved
+Theta,Theta_Clean,9,0,4,0,5,0
+Alpha_Mu,Alpha_Mu_Clean,9,6,5,2,5,2
+Beta,Beta_Clean,9,9,5,5,4,4
+Gamma,Gamma_Clean,9,7,4,2,4,2

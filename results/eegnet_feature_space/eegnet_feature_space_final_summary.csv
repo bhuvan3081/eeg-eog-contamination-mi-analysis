@@ -1,0 +1,12 @@
+Metric,Value
+Mean_Delta_Accuracy,0.023929122221903416
+Mean_Delta_F1,0.01932428097154494
+Mean_Delta_Between_Class_Distance,0.12999056560929542
+Mean_Delta_Within_Class_Distance,-0.07155895903416898
+Mean_Delta_Separation_Ratio,0.010121882958153146
+Mean_Delta_Silhouette,0.0020176867113561674
+Mean_Delta_Left_vs_Right,0.09104269989889874
+Subjects_Separation_Ratio_Improved,6.0
+Subjects_Silhouette_Improved,6.0
+Subjects_Between_Class_Distance_Increased,6.0
+Subjects_Within_Class_Distance_Decreased,5.0

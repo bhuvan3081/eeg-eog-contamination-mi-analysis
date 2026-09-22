@@ -1,0 +1,5 @@
+Metric,Value
+Nested_LOOCV_Accuracy,1.0
+Nested_LOOCV_Balanced_Accuracy,1.0
+Nested_LOOCV_ROC_AUC,1.0
+Exact_Permutation_p,0.00196078431372549

@@ -1,0 +1,9 @@
+Feature,Outcome,Full_r,LOO_Positive_Fraction,Stable_Positive,Stable_Negative
+EOG_Gamma_R2,Delta_Accuracy,-0.3522549186129755,0.1111111111111111,False,True
+EOG_Gamma_R2,Delta_F1,-0.24023558357535132,0.1111111111111111,False,True
+Delta_Theta_R2,Delta_Accuracy,0.007943592821720793,0.5555555555555556,False,False
+Delta_Theta_R2,Delta_F1,-0.19427363839303063,0.1111111111111111,False,True
+Delta_Alpha_Mu_R2,Delta_Accuracy,-0.5681109512095694,0.0,False,True
+Delta_Alpha_Mu_R2,Delta_F1,-0.7156758129198783,0.0,False,True
+Gamma_Relative_Power,Delta_Accuracy,-0.16401311117323333,0.1111111111111111,False,True
+Gamma_Relative_Power,Delta_F1,-0.18535736462180455,0.1111111111111111,False,True

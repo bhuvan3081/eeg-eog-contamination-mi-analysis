@@ -1,0 +1,10 @@
+Subject,Actual_Group,Predicted_Group,Actual_Label,Predicted_Label,Correct,Selected_Features,Inner_Balanced_Accuracy,Outer_Training_Balanced_Accuracy,LOOCV_Score,Training_Threshold
+A01,Harmed,Harmed,0,0,1,Gamma_Relative_Power,1.0,1.0,-0.022397607283002847,0.09760708826628547
+A02,Harmed,Harmed,0,0,1,Gamma_Relative_Power,1.0,1.0,-0.14001056010733876,0.08800802382800678
+A03,Harmed,Harmed,0,0,1,Gamma_Relative_Power,1.0,1.0,-5.375462082222783,-0.37376347097692086
+A04,Responder,Responder,1,1,1,EOG_Gamma_R2+Delta_Theta_R2,1.0,1.0,0.714162240632813,0.2818076773072469
+A05,Responder,Responder,1,1,1,EOG_Gamma_R2+Delta_Theta_R2,1.0,1.0,0.7010281818136328,0.32168442549209736
+A06,Harmed,Harmed,0,0,1,Gamma_Relative_Power,1.0,1.0,-0.029921626162423907,0.10011734735107225
+A07,Responder,Responder,1,1,1,Gamma_Relative_Power,1.0,1.0,0.8777837617040617,0.20590974373917653
+A08,Harmed,Harmed,0,0,1,Gamma_Relative_Power,1.0,1.0,-0.07376557547807493,0.09527564706229548
+A09,Responder,Responder,1,1,1,Gamma_Relative_Power,1.0,1.0,1.5099517391972062,0.2852312836712635
